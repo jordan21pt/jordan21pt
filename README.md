@@ -1,3 +1,14 @@
+# 💫 About Me:
+Currently pursuing a Master’s degree in Computer Engineering @ the Polytechnic University of Cávado and Ave
+<br>
+Computer science graduated in 2024 @ University of Minho
+<br>
+I’m using C++ with Qt framework and MongoDB at my job
+<br>
+I’m using NodeJs and TypeScript in university
+<br>
+Ask me about Black Mirror
+<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ruisgoncalves) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rui_21_99@hotmail.com) 
