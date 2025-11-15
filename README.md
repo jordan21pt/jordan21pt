@@ -1,7 +1,7 @@
 ![AAAABY6C_bS_h0brY9S5kuSp_4ANGSvwkOg38b_j737Grqdl-fGnuWd9Rg2t-TGs5Y3rJNRoTuprHjpVKW2Q4RaY54345HfaNEfptQsq](https://github.com/user-attachments/assets/38ac6050-7bef-4d48-a29a-b902176e696f)
 
 # 💫 About Me:
-Currently pursuing a Master’s degree in Computer Engineering @ the Polytechnic University of Cávado and Ave
+Currently pursuing a Master’s degree in Computer Engineering @ Polytechnic University of Cávado and Ave
 <br>
 Computer science graduated in 2024 @ University of Minho
 <br>
