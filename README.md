@@ -3,11 +3,11 @@
 # 💫 About Me:
 Currently pursuing a Master’s degree in Computer Engineering @ Polytechnic University of Cávado and Ave
 <br>
-Computer science graduated in 2024 @ University of Minho
+Computer science graduate in 2024 @ University of Minho
 <br>
-I’m using C++ with Qt framework and MongoDB at my job
+I’m using C++ with the Qt framework and MongoDB at my job
 <br>
-I’m using NodeJs and TypeScript in university
+I’m using NodeJS, TypeScript, React with Tailwind, and Kotlin at university
 <br>
 Ask me about Black Mirror
 <br>
