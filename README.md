@@ -1,5 +1,8 @@
 ![AAAABY6C_bS_h0brY9S5kuSp_4ANGSvwkOg38b_j737Grqdl-fGnuWd9Rg2t-TGs5Y3rJNRoTuprHjpVKW2Q4RaY54345HfaNEfptQsq](https://github.com/user-attachments/assets/38ac6050-7bef-4d48-a29a-b902176e696f)
 
+# My new webpage: https://jordan21pt.github.io/ 
+(I need to update the info there...)
+
 # 💫 About Me:
 Currently pursuing a Master’s degree in Computer Engineering @ Polytechnic University of Cávado and Ave
 <br>
